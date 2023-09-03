@@ -1,0 +1,26 @@
+
+h1{color: white;
+font-weight: bold;}
+
+
+h3 {
+	color:red;
+}
+.cat  {
+	background-color: black;  
+}
+
+h4{color: white;}
+
+.dog {background-color:white;}
+
+.one {color: black;
+font-weight: bold;
+font-weight: inherit;}
+
+
+
+h6{background-color: lightgrey;
+height: 350;}
+
+.ty{background-color: grey;}
